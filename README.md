@@ -78,9 +78,6 @@ Use `app.py` to view your attendance records by selecting a specific date.
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
